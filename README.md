@@ -1,2 +1,2 @@
 # Algorithms
-Clustering and other algorithms
+Implementations of DSP and some ML algorithms
